@@ -26,6 +26,6 @@
     <title> Save the kids ! </title>
   </head>
   <body>
-    <img src="../img/bestprojectever.jpg" style="width:1000px;height:1000px;"></img>
+    <img src="../img/bestprojectever.jpg" style="width:1000px; height:2000px; display: flex; align-items: center; justify-content: center"></img>
   </body>
 </html>
