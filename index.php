@@ -23,9 +23,6 @@
     <script src="Js/wow.min.js"></script>
     <script src="Js/jquery-ui.min.js"></script>
 
-    <script type="text/javascript">
-      new WOW().init();
-    </script>
     <title> Save the kids ! </title>
   </head>
   <body>
